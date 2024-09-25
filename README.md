@@ -27,5 +27,7 @@ Contribuição
 Este projeto está em desenvolvimento contínuo, e contribuições são bem-vindas! Se você tiver sugestões ou encontrar problemas, sinta-se à vontade para abrir uma issue ou entrar em contato diretamente.
 Contato
 
-    Gabdf - Desenvolvedor Principal
-        GitHub: Gabdefi
+    Gabdf
+    GitHub: Gabdefi
+</>
+    
