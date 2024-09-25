@@ -1,6 +1,6 @@
 Automação Orca
 
-Bem-vindo ao Automação Orca, um projeto desenvolvido por <Gabdf/> para automatizar a coleta diária de pools no Orca Finance. Este site foi criado para ajudar os usuários a gerenciar suas pools de forma eficiente e otimizar seus rendimentos no ecossistema DeFi.
+Bem-vindo ao Automação Orca, um projeto desenvolvido por <Gabdf/> para automatizar a coleta diária de pools no Orca Finance. Este site foi criado para ajudar defizeros a gerenciar suas pools de forma eficiente e otimizar seus rendimentos.
 Sobre o Projeto
 
 O Automação Orca permite que os usuários:
