@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/orca-automation-app/static/css/main.f855e6bc.css",
+    "main.css": "/orca-automation-app/static/css/main.0e6f52a9.css",
     "main.js": "/orca-automation-app/static/js/main.84d1fb9d.js",
     "static/js/453.3cd10af3.chunk.js": "/orca-automation-app/static/js/453.3cd10af3.chunk.js",
     "index.html": "/orca-automation-app/index.html",
-    "main.f855e6bc.css.map": "/orca-automation-app/static/css/main.f855e6bc.css.map",
+    "main.0e6f52a9.css.map": "/orca-automation-app/static/css/main.0e6f52a9.css.map",
     "main.84d1fb9d.js.map": "/orca-automation-app/static/js/main.84d1fb9d.js.map",
     "453.3cd10af3.chunk.js.map": "/orca-automation-app/static/js/453.3cd10af3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
+    "static/css/main.0e6f52a9.css",
     "static/js/main.84d1fb9d.js"
   ]
 }
