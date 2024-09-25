@@ -24,10 +24,10 @@ Você pode acessar o site da Automação Orca através do seguinte link:
 https://gabdefi.github.io/orca-automation-app/
 Contribuição
 
-Este projeto está em desenvolvimento contínuo, e contribuições são bem-vindas! Se você tiver sugestões ou encontrar problemas, sinta-se à vontade para abrir uma issue ou entrar em contato diretamente.
+Este projeto está em desenvolvimento contínuo, e contribuições são bem-vindas! Se você tiver sugestões ou encontrar problemas, sinta-se à vontade para abrir uma issue ou entrar em contato diretamente pelo discord
 Contato
 
-    Gabdf
+    <Gabdf/>
     GitHub: Gabdefi
 </>
     
