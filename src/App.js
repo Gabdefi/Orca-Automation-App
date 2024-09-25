@@ -1,23 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+//Configurar o Botão de Conexão da Carteira
+
+// src/App.js
+
+import React from 'react';
+import { WalletMultiButton } from '@solana/wallet-adapter-react-ui';
+import LiquidityPools from './LiquidityPools';
+import './App.css'; // Se estiver usando estilos personalizados
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1>Automatização de Pools de Liquidez Orca</h1>
+      <WalletMultiButton />
+      <LiquidityPools />
     </div>
   );
 }
