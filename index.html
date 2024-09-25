@@ -1,43 +1,55 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
-    <meta
-      name="description"
-      content="Web site created using create-react-app"
-    />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <!--
-      manifest.json provides metadata used when your web app is installed on a
-      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
-    -->
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <!--
-      Notice the use of %PUBLIC_URL% in the tags above.
-      It will be replaced with the URL of the `public` folder during the build.
-      Only files inside the `public` folder can be referenced from the HTML.
+<html>
 
-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
-      work correctly both with client-side routing and a non-root public URL.
-      Learn how to configure a non-root public URL by running `npm run build`.
-    -->
-    <title>React App</title>
-  </head>
-  <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
+<head>
+  <!-- Outros links e meta tags -->
+  <link rel="stylesheet" href="styles.css">
+  <script src="main.js"></script>
+  <script src="script.js"></script>
+  <!-- Link para o Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
 
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
+<body>
+  <!-- Faixa superior -->
+  <header class="top-bar">
+    <div class="logo-container">
+      <img src="https://drive.google.com/uc?export=view&id=1WNVO405ADZpOBpBG7qZx2IIIiu7gMt-V" alt="Defiverso Alien">
+      <h1>Automação Orca by &lt;gabdf/&gt;</h1>
+    </div>
+    <div class="settings">
+      <img src="https://cdn-icons-png.flaticon.com/512/2099/2099058.png" alt="Configurações" id="settings-icon">
+    </div>
+  </header>
 
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
-  </body>
+  <!-- Menu lateral de configurações -->
+  <div class="sidebar" id="sidebar">
+    <ul>
+      <li id="toggle-theme">
+        <i class="fas fa-moon"></i>
+        Mudar Tema
+      </li>
+      <li id="show-info">
+        <i class="fas fa-question-circle"></i>
+        Informações
+      </li>
+    </ul>
+    <div class="info" id="info">
+      <p>O site está sendo construído pelo defizero &lt;Gabdf/&gt; para ajudar os defizeros a coletar automaticamente
+        todos os dias. Caso tenham sugestões podem me contatar.</p>
+    </div>
+  </div>
+
+  <div class="container">
+    <!-- Conteúdo do site -->
+  </div>
+
+  <section class="banner">
+    <h2>Bem-vindo ao Automação Orca</h2>
+    <p>Automatize suas tarefas diárias com facilidade.</p>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+
 </html>
